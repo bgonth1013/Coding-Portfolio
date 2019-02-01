@@ -1,6 +1,6 @@
 # Data Pipeline for Hacker News DataQuest Guided Project
 
-* In it there is the:
+* This branch consists of:
 
 1. pipeline.py, which contains the classes for the Data Pipeline final project code.
 2. stop_words.py, which contains the stop words to not be included in the final word count list.
